@@ -1,0 +1,2713 @@
+[
+    {
+      "name": "Dialed In",
+      "street": "3820 Forest street #4",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80207",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "SRH - Standing Akimbo",
+      "street": "3801 North Jason Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80211",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Spherex LLC",
+      "street": "16506 E 2nd Ave",
+      "city": "Aurora",
+      "state": "CO",
+      "zip": "80011",
+      "phone": "",
+      "lat": 39.7294,
+      "lng": -104.8319
+    },
+    {
+      "name": "Arsenal Oils and Extracts llc",
+      "street": "472 Laredo St Unit H",
+      "city": "Aurora",
+      "state": "Colorado",
+      "zip": "80011",
+      "phone": "",
+      "lat": 39.7294,
+      "lng": -104.8319
+    },
+    {
+      "name": "SRH - Karmacueticals",
+      "street": "4500 Washington St",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Eclipse",
+      "street": "933 Alpine Ave",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80304",
+      "phone": "7204200782",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "Breckenridge Organic Therapy",
+      "street": "1900 Airport Road. #1-a",
+      "city": "Breckenridge",
+      "state": "Colorado",
+      "zip": "80424",
+      "phone": "",
+      "lat": 39.4817,
+      "lng": -106.0384
+    },
+    {
+      "name": "The Herbal Cure",
+      "street": "985 South Logan Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80209",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Karmaceuticals",
+      "street": "4 south santa fe Drive",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80223",
+      "phone": "3037652762",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Reefer Madness - 46th",
+      "street": "4401 East 46th Avenue, Suite B",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Medicine Man - Thornton (Columbia Care)",
+      "street": "130 w. 84th street",
+      "city": "Thornton",
+      "state": "CO",
+      "zip": "80260",
+      "phone": "",
+      "lat": 39.8680,
+      "lng": -104.9870
+    },
+    {
+      "name": "Medicine Man - Longmont (Columbia Care)",
+      "street": "500 E Rogers RD",
+      "city": "Longmont",
+      "state": "CO",
+      "zip": "80501",
+      "phone": "",
+      "lat": 40.1672,
+      "lng": -105.1019
+    },
+    {
+      "name": "Reefer Broadway",
+      "street": "1995 S Broadway",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80210",
+      "phone": "5207807885",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Outcrop Dispensary Red Rocks",
+      "street": "",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "SRH - Snaxland Cherokee",
+      "street": "4500 Washington",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "SRH - Nature's Med",
+      "street": "4500 Washington Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Basecamp Cannabis",
+      "street": "78259 US-40 basement unit",
+      "city": "Winter Park",
+      "state": "Colorado",
+      "zip": "80482",
+      "phone": "",
+      "lat": 39.8873,
+      "lng": -105.8125
+    },
+    {
+      "name": "CHC - Broadway",
+      "street": "1568 s broadway",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80210",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "SRH - KIKA(Circle)",
+      "street": "4500 Washington",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Snaxland - Bryant",
+      "street": "543 Bryant St",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80224",
+      "phone": "7203666615",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "L'Eagle",
+      "street": "380 Quivas Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80223",
+      "phone": "3039952613",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Meadows Dispensary",
+      "street": "2215 E Mississippi Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80210",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Snaxland - Federal",
+      "street": "82 S federal blvd.",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80219",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Cannabliss",
+      "street": "440 Lawrence Street",
+      "city": "Central City",
+      "state": "CO",
+      "zip": "80427",
+      "phone": "",
+      "lat": 39.7393,
+      "lng": -105.1862
+    },
+    {
+      "name": "SRH - Spark (Springs)",
+      "street": "5024 N Academy Blvd",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80918",
+      "phone": "",
+      "lat": 38.8339,
+      "lng": -104.8214
+    },
+    {
+      "name": "CHC - Yale",
+      "street": "11002 E Yale ave",
+      "city": "Aurora",
+      "state": "CO",
+      "zip": "80014",
+      "phone": "",
+      "lat": 39.7294,
+      "lng": -104.8319
+    },
+    {
+      "name": "Oasis- 44th Ave",
+      "street": "5440 W 44th Ave",
+      "city": "Mountain View",
+      "state": "Colorado",
+      "zip": "80212",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Medicinal Oasis",
+      "street": "6359 E Evans Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80222",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Fresh Baked",
+      "street": "2535 Pearl St",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80302",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "CHC - Kalamath",
+      "street": "1178 S Kalamath St",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80223",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Three Rivers",
+      "street": "135 s Broadway",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80209",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "The Dispensary",
+      "street": "5290 Arapahoe Ave Suite J",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80303",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "High Level Health - Colfax",
+      "street": "2028 E. Colfax",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80206",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Sunrise Solutions",
+      "street": "43 Main St",
+      "city": "Bailey",
+      "state": "CO",
+      "zip": "80421",
+      "phone": "",
+      "lat": 39.7000,
+      "lng": -105.2000
+    },
+    {
+      "name": "Best Buds - 38th",
+      "street": "4012 West 38th Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80212",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Best Buds - Walnut",
+      "street": "3814 Walnut Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80205",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Billo Premium",
+      "street": "3150 Ingles lane",
+      "city": "Steamboat Springs",
+      "state": "Colorado",
+      "zip": "80487",
+      "phone": "9708794420",
+      "lat": 40.4840,
+      "lng": -106.8317
+    },
+    {
+      "name": "Cannabis Studio",
+      "street": "2539 Pearl Street",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80302",
+      "phone": "(303) 993-8536",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "Poloice and Thieves - Harrison",
+      "street": "399 S Harrison Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80209",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "SoHi Dispensary",
+      "street": "1406 W 38th Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80211",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Verts - Golden",
+      "street": "511 Orchard Steet",
+      "city": "Golden",
+      "state": "CO",
+      "zip": "80401",
+      "phone": "",
+      "lat": 39.7555,
+      "lng": -105.2211
+    },
+    {
+      "name": "Best High - Bryant",
+      "street": "2005 Bryant Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80211",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Del Mundo Cannabis",
+      "street": "2394 South Broadway",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80210",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "E2T2 LLC (Cookies Denver)",
+      "street": "2057 S. Broadway",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80210",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "LOVA Arapahoe",
+      "street": "2042 Arapahoe St",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80205",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "TGS - Fort Collins",
+      "street": "810 North Collage Ave",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "80524",
+      "phone": "",
+      "lat": 40.5853,
+      "lng": -105.0844
+    },
+    {
+      "name": "TGS - Northglenn",
+      "street": "470 Malley Drive",
+      "city": "Northglenn",
+      "state": "CO",
+      "zip": "80233",
+      "phone": "",
+      "lat": 39.8967,
+      "lng": -104.9813
+    },
+    {
+      "name": "Trees",
+      "street": "7289 E Hampden Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80224",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Complete Releaf",
+      "street": "1669 Coal Creek Drive",
+      "city": "Lafayette",
+      "state": "Colorado",
+      "zip": "80026",
+      "phone": "",
+      "lat": 40.4163,
+      "lng": -105.0749
+    },
+    {
+      "name": "Golden Meds",
+      "street": "330 N Federal Blvd",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80219",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Lakeshore Cannabis",
+      "street": "2517 Sheridan Blvd",
+      "city": "Edgewater",
+      "state": "Colorado",
+      "zip": "80214",
+      "phone": "7209209617",
+      "lat": 39.6700,
+      "lng": -105.1200
+    },
+    {
+      "name": "SRH - CREAM Cannabis",
+      "street": "1000 W Fillmore st Unit 105",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "",
+      "phone": "",
+      "lat": 38.8339,
+      "lng": -104.8214
+    },
+    {
+      "name": "Best Colorado Cannabis",
+      "street": "",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Dark Horse Genetics",
+      "street": "1110 W Virgina Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80223",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Green Meadows",
+      "street": "836 n highway 50 Business Loop",
+      "city": "Olathe",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "",
+      "lat": 39.8000,
+      "lng": -105.0000
+    },
+    {
+      "name": "Harvest Pueblo",
+      "street": "875 Crane Ridge Drive",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "zip": "81008",
+      "phone": "",
+      "lat": 38.2544,
+      "lng": -104.6091
+    },
+    {
+      "name": "High Valley Retail Cannabis",
+      "street": "60250 County Road T",
+      "city": "Moffat",
+      "state": "Colorado",
+      "zip": "81143",
+      "phone": "",
+      "lat": 40.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "Spark",
+      "street": "3900 E 48th Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80216",
+      "phone": "3035734800",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "1136 Yuma",
+      "street": "1136 Yuma Ct",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80204",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "14er Holistics",
+      "street": "2897 Mapleton Ave #800",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80301",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "A Cut Above",
+      "street": "1911 South Broadway",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80210",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "ACADEMY OF THE HEALING ARTS, LLC",
+      "street": "60250 County Road T",
+      "city": "Moffat",
+      "state": "Colorado",
+      "zip": "81143",
+      "phone": "",
+      "lat": 40.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "Ace's Place Fort Collins",
+      "street": "",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "",
+      "phone": "",
+      "lat": 40.5853,
+      "lng": -105.0844
+    },
+    {
+      "name": "Ajoya",
+      "street": "11950 West Colfax Ave.",
+      "city": "Lakewood",
+      "state": "Colorado",
+      "zip": "80215",
+      "phone": "",
+      "lat": 39.7047,
+      "lng": -105.0814
+    },
+    {
+      "name": "Allgreens",
+      "street": "2291 South Kalamath Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80223",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Alternative Medicine on Capitol Hill",
+      "street": "1301 N Marion Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80218",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Alternative Medicine on Capitol Hill (Medical)",
+      "street": "1301 N Marion St.",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80218",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Altitude East",
+      "street": "6858 E Evans",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80207",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "B GOOD - West Hampden",
+      "street": "11 West Hampden Avenue #102",
+      "city": "Englewood",
+      "state": "Colorado",
+      "zip": "80110",
+      "phone": "",
+      "lat": 39.6472,
+      "lng": -104.9877
+    },
+    {
+      "name": "bgood Northglenn",
+      "street": "11450 Cherokee St. #A7",
+      "city": "Northglenn",
+      "state": "Colorado",
+      "zip": "80234",
+      "phone": "3032544200",
+      "lat": 39.8967,
+      "lng": -104.9813
+    },
+    {
+      "name": "Binske",
+      "street": "209 Nancy Crawford Blvd",
+      "city": "Oak Creek",
+      "state": "Colorado",
+      "zip": "80467",
+      "phone": "787-586-9928",
+      "lat": 39.3648,
+      "lng": -106.0717
+    },
+    {
+      "name": "Boulder Built LLC",
+      "street": "5305 Vasquez Blvd.",
+      "city": "Commerce City",
+      "state": "Colorado",
+      "zip": "80022",
+      "phone": "",
+      "lat": 39.8110,
+      "lng": -104.9339
+    },
+    {
+      "name": "Boulder Mag",
+      "street": "1750 30th Street, Unit 84",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80301",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "Boulder Wellness Center",
+      "street": "5420 Arapahoe Ave Unit F",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80303",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "Bud Hut",
+      "street": "973 U.S. Highway 85-87",
+      "city": "Walsenburg",
+      "state": "Colorado",
+      "zip": "81089",
+      "phone": "",
+      "lat": 37.9998,
+      "lng": -104.4075
+    },
+    {
+      "name": "Buffalo Biotech LLC",
+      "street": "108 South Mill Street",
+      "city": "Aspen",
+      "state": "Colorado",
+      "zip": "81611",
+      "phone": "9703799406",
+      "lat": 39.1911,
+      "lng": -106.8175
+    },
+    {
+      "name": "Buku Loud",
+      "street": "3079 South Academy",
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "zip": "80916",
+      "phone": "",
+      "lat": 38.8339,
+      "lng": -104.8214
+    },
+    {
+      "name": "Callie's Rino",
+      "street": "3054 Larimer St",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80205",
+      "phone": "3032972273",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Callies - Northglen",
+      "street": "920 W 104th Ave",
+      "city": "Northglenn",
+      "state": "Colorado",
+      "zip": "80234",
+      "phone": "3033799526",
+      "lat": 39.8967,
+      "lng": -104.9813
+    },
+    {
+      "name": "CANNA BOTICA",
+      "street": "219 Vallejo St.",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80223",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Canna Cabinet",
+      "street": "2630 West Pueblo Blvd, Suite E",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "zip": "81004",
+      "phone": "",
+      "lat": 38.2544,
+      "lng": -104.6091
+    },
+    {
+      "name": "Canna City",
+      "street": "7150 Highway 85",
+      "city": "Commerce City",
+      "state": "Colorado",
+      "zip": "80022",
+      "phone": "",
+      "lat": 39.8110,
+      "lng": -104.9339
+    },
+    {
+      "name": "Cannabis Depot - Denver",
+      "street": "155 Federal BLVD",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80219",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Cheeba Chew",
+      "street": "west 49st",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80216",
+      "phone": "303-955-0673",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Choice Organics inc",
+      "street": "813 Smithfield Drive, Units C & D",
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "zip": "80524",
+      "phone": "",
+      "lat": 40.5853,
+      "lng": -105.0844
+    },
+    {
+      "name": "Cliintel Capital Group LLC",
+      "street": "5156 North Clarkson street, Building 2-A",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Colorado Harvest Company",
+      "street": "1568 S Broadway",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80210",
+      "phone": "3037221227",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Confidential Cannabis",
+      "street": "11640 Teller Street, Suite E",
+      "city": "Broomfield",
+      "state": "CO",
+      "zip": "80020",
+      "phone": "",
+      "lat": 39.9205,
+      "lng": -105.0867
+    },
+    {
+      "name": "Consciously Crafted LLC",
+      "street": "5000 E 41st Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80216",
+      "phone": "18185905949",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Cookies Commerce City",
+      "street": "5385 Quebec St",
+      "city": "Commerce City",
+      "state": "Colorado",
+      "zip": "80022",
+      "phone": "7209993071",
+      "lat": 39.8110,
+      "lng": -104.9339
+    },
+    {
+      "name": "Cross Genetics",
+      "street": "6745 West Mississippi Ave",
+      "city": "Lakewood",
+      "state": "Colorado",
+      "zip": "80226",
+      "phone": "",
+      "lat": 39.7047,
+      "lng": -105.0814
+    },
+    {
+      "name": "Dablogic - Boulder",
+      "street": "302 Pearl St",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80302",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "Delilah LLC",
+      "street": "115 W. Colorado Ave.",
+      "city": "Telluride",
+      "state": "Colorado",
+      "zip": "81435",
+      "phone": "",
+      "lat": 37.9375,
+      "lng": -107.8123
+    },
+    {
+      "name": "Den Rec",
+      "street": "2117 Larimer St sta- A",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80205",
+      "phone": "3032962093",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "DenCO",
+      "street": "5155 E 46th Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Denver Kush Club",
+      "street": "2615 Welton St",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80205",
+      "phone": "3037366550",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "DinoTreats",
+      "street": "102 Tyrannosaurus Trl Dinosaur",
+      "city": "Dinosaur",
+      "state": "Colorado",
+      "zip": "81610",
+      "phone": "9703742350",
+      "lat": 37.1697,
+      "lng": -104.5500
+    },
+    {
+      "name": "DNS Enterprises LLC - AKA Skunked",
+      "street": "2683 E 120th aveUnit B1",
+      "city": "Thornton",
+      "state": "Colorado",
+      "zip": "80233",
+      "phone": "9705701633",
+      "lat": 39.8680,
+      "lng": -104.9870
+    },
+    {
+      "name": "Doctors Orders - Pueblo West",
+      "street": "749 E Enterprise",
+      "city": "Pueblo West",
+      "state": "Colorado",
+      "zip": "81007",
+      "phone": "",
+      "lat": 38.3500,
+      "lng": -104.7500
+    },
+    {
+      "name": "Durango Organics",
+      "street": "310 Belleview Ave. Unit 2",
+      "city": "Crested Butte",
+      "state": "Colorado",
+      "zip": "81224",
+      "phone": "",
+      "lat": 38.8691,
+      "lng": -106.9878
+    },
+    {
+      "name": "Durango Rec Room",
+      "street": "145 East College Drive Units 1,2",
+      "city": "Durango",
+      "state": "Colorado",
+      "zip": "81301",
+      "phone": "9707644087",
+      "lat": 37.2753,
+      "lng": -107.8801
+    },
+    {
+      "name": "Earls",
+      "street": "P.O. Box 953",
+      "city": "Leadville",
+      "state": "Colorado",
+      "zip": "80461",
+      "phone": "",
+      "lat": 39.2500,
+      "lng": -106.3200
+    },
+    {
+      "name": "Elevated Longmont",
+      "street": "9800 North 119th Street",
+      "city": "Longmont",
+      "state": "Colorado",
+      "zip": "80501",
+      "phone": "",
+      "lat": 40.1672,
+      "lng": -105.1019
+    },
+    {
+      "name": "Elite Cannabis",
+      "street": "4401 Zenobia St",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80212",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Elite Organics",
+      "street": "804 South College Avenue, Suite C",
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "zip": "80524",
+      "phone": "",
+      "lat": 40.5853,
+      "lng": -105.0844
+    },
+    {
+      "name": "Everbloom Jackson St. Medical",
+      "street": "4095 Jackson St.",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Exit 243 dispensary",
+      "street": "2235 East Idaho Springs Road",
+      "city": "Idaho Springs",
+      "state": "Colorado",
+      "zip": "80452",
+      "phone": "303-880-6625",
+      "lat": 39.6555,
+      "lng": -105.5291
+    },
+    {
+      "name": "Faragosi Farms",
+      "street": "118 Santa Fe Trail",
+      "city": "Trinidad",
+      "state": "Colorado",
+      "zip": "81082",
+      "phone": "",
+      "lat": 37.1697,
+      "lng": -104.5500
+    },
+    {
+      "name": "Fiddler's Green Cannabis Dispensary",
+      "street": "402 Palomino Trail",
+      "city": "Ridgway",
+      "state": "Colorado",
+      "zip": "81432",
+      "phone": "",
+      "lat": 38.3617,
+      "lng": -107.8605
+    },
+    {
+      "name": "Fox Cannabis",
+      "street": "4773 Fox Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Frost Exotic Cannabis",
+      "street": "2949 West Alameda Avenue",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80219",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Galaxy Greens",
+      "street": "125 west Bridge Street - Unit D",
+      "city": "Brighton",
+      "state": "CO",
+      "zip": "80601",
+      "phone": "",
+      "lat": 39.9837,
+      "lng": -104.8641
+    },
+    {
+      "name": "Golden Leaf MMC",
+      "street": "1755 Lincoln Ave",
+      "city": "Steamboat Springs",
+      "state": "Colorado",
+      "zip": "80487",
+      "phone": "",
+      "lat": 40.4840,
+      "lng": -106.8317
+    },
+    {
+      "name": "Golden Meds - Peoria",
+      "street": "4620 Peoria Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80239",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Good Vibes Rocky Mountain Dispensary No. 1 LLC",
+      "street": "820 W Victory Way",
+      "city": "Craig",
+      "state": "Colorado",
+      "zip": "81625",
+      "phone": "9706204667",
+      "lat": 40.5172,
+      "lng": -102.6678
+    },
+    {
+      "name": "Grassberries",
+      "street": "213 US-85 building 2",
+      "city": "Ault",
+      "state": "Colorado",
+      "zip": "80610",
+      "phone": "",
+      "lat": 40.0692,
+      "lng": -102.0410
+    },
+    {
+      "name": "Green Cross",
+      "street": "1435 Airport Road",
+      "city": "Rifle",
+      "state": "Colorado",
+      "zip": "81650",
+      "phone": "9706251053",
+      "lat": 39.5347,
+      "lng": -107.6476
+    },
+    {
+      "name": "Green Dragon - Edgewater",
+      "street": "2467 Sheridan Blvd, Unit B",
+      "city": "Edgewater",
+      "state": "Colorado",
+      "zip": "80214",
+      "phone": "",
+      "lat": 39.6700,
+      "lng": -105.1200
+    },
+    {
+      "name": "Green Remedy",
+      "street": "1052 S Quebec St",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80231",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Green RiNo",
+      "street": "3450 Brighton Blvd.",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Green Tree Medicinals",
+      "street": "1090 N 2nd St.",
+      "city": "Berthoud",
+      "state": "Colorado",
+      "zip": "80513",
+      "phone": "",
+      "lat": 40.2156,
+      "lng": -105.1102
+    },
+    {
+      "name": "Green Tree Medicinals Boulder",
+      "street": "5565 Arapahoe Ave",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80303",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "Green Valley Dispensary",
+      "street": "4650 Tower Rd #108",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80249",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Green World Express",
+      "street": "5320 US HWY 285",
+      "city": "Antonito",
+      "state": "Colorado",
+      "zip": "81120",
+      "phone": "",
+      "lat": 37.7914,
+      "lng": -106.2379
+    },
+    {
+      "name": "Greener Pasture Compassion Center",
+      "street": "5101 E Colfax Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80220",
+      "phone": "3103959030",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Greenfields - Mississippi",
+      "street": "1798 w Mississippi Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80223",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Greenfields - Navajo",
+      "street": "2038 South Navajo street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80223",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Greenstop",
+      "street": "130 Maine Street, Unit B",
+      "city": "Log Lane Village",
+      "state": "Colorado",
+      "zip": "80705",
+      "phone": "",
+      "lat": 39.5000,
+      "lng": -105.0000
+    },
+    {
+      "name": "Gunnison Cannabis",
+      "street": "901 West New York Avenue",
+      "city": "Gunnison",
+      "state": "Colorado",
+      "zip": "81230",
+      "phone": "",
+      "lat": 38.5434,
+      "lng": -106.9353
+    },
+    {
+      "name": "Helping Hands Herbals",
+      "street": "1021 Pearl St. Unit B",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80302",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "Hi-Fuel Cannabis",
+      "street": "2640 E 43 Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "High Country Healing",
+      "street": "40801 US highway 6 suite 5",
+      "city": "Eagle-Vail",
+      "state": "Colorado",
+      "zip": "81620",
+      "phone": "9704704794",
+      "lat": 39.6426,
+      "lng": -106.3742
+    },
+    {
+      "name": "High Grade",
+      "street": "5475 North Peoria Street 4-109",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80239",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "High Valley Antonito Retail Cannabis",
+      "street": "315 Main Street",
+      "city": "Antonito",
+      "state": "Colorado",
+      "zip": "81120",
+      "phone": "",
+      "lat": 37.7914,
+      "lng": -106.2379
+    },
+    {
+      "name": "High West Cannabis",
+      "street": "10625 E 51st Ave #100",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80239",
+      "phone": "7209338173",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Higher Grade",
+      "street": "1269 Elati Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80204",
+      "phone": "3039934547",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "HORIZON CANNABIS",
+      "street": "6745 W Mississippi Ave Suite",
+      "city": "Lakewood",
+      "state": "Colorado",
+      "zip": "80226",
+      "phone": "2818259735",
+      "lat": 39.7047,
+      "lng": -105.0814
+    },
+    {
+      "name": "IgadI Lafayette",
+      "street": "1325 S. PUBLIC RD.",
+      "city": "Lafayette",
+      "state": "Colorado",
+      "zip": "80026",
+      "phone": "",
+      "lat": 40.4163,
+      "lng": -105.0749
+    },
+    {
+      "name": "Joints Colorado",
+      "street": "12001 E 33rd Ave Unit O",
+      "city": "Aurora",
+      "state": "Colorado",
+      "zip": "80010",
+      "phone": "",
+      "lat": 39.7294,
+      "lng": -104.8319
+    },
+    {
+      "name": "Kaya Cannabis",
+      "street": "1075 South Fox Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80332",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Kind Love",
+      "street": "4380 E Alameda Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80246",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Kind Love – Peoria",
+      "street": "3899 Quentin Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80239",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Krystaleaves",
+      "street": "5301 Vasquez Blvd.",
+      "city": "Commerce City",
+      "state": "Colorado",
+      "zip": "80222",
+      "phone": "",
+      "lat": 39.8110,
+      "lng": -104.9339
+    },
+    {
+      "name": "La Conte's",
+      "street": "105 E. 7th Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80203",
+      "phone": "3032922252",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Larsen Group II",
+      "street": "3215 E 42nd Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80216",
+      "phone": "7203608445",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Left Hands",
+      "street": "6859 North Foothills Hwy c-600",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80302",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "Lemonade -MED",
+      "street": "4502 N Washington",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Lemonnade - Roll Up Denver",
+      "street": "4500 Washington Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Life Flower",
+      "street": "4966 Leetsdale Drive",
+      "city": "Glendale",
+      "state": "Colorado",
+      "zip": "80246",
+      "phone": "",
+      "lat": 39.7000,
+      "lng": -104.9000
+    },
+    {
+      "name": "Lightshade",
+      "street": "745 E 6th Ave, Denver, CO 80203",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80203",
+      "phone": "7274608705",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Lit",
+      "street": "1630 Federal Blvd",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80204",
+      "phone": "3034559333",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "LivWell - Buckley",
+      "street": "19201 E Colfax Ave",
+      "city": "Aurora",
+      "state": "Colorado",
+      "zip": "80011",
+      "phone": "",
+      "lat": 39.7294,
+      "lng": -104.8319
+    },
+    {
+      "name": "Local Product of Colorado",
+      "street": "419 West 13th Avenue",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80204",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Log Lane Mag",
+      "street": "206 Elm Dr",
+      "city": "Log Lane Village",
+      "state": "Colorado",
+      "zip": "80705",
+      "phone": "9708671305",
+      "lat": 39.5000,
+      "lng": -105.0000
+    },
+    {
+      "name": "Lucky Monkey",
+      "street": "137 west cedar st",
+      "city": "Trinidad",
+      "state": "Colorado",
+      "zip": "81089",
+      "phone": "",
+      "lat": 37.1697,
+      "lng": -104.5500
+    },
+    {
+      "name": "Lucky Turtle Co. - Terrapin",
+      "street": "472 Laredo St Unit J",
+      "city": "Aurora",
+      "state": "Colorado",
+      "zip": "80011",
+      "phone": "",
+      "lat": 39.7294,
+      "lng": -104.8319
+    },
+    {
+      "name": "Lucy Sky - Federal",
+      "street": "4444 S Federal Blvd",
+      "city": "Englewood",
+      "state": "Colorado",
+      "zip": "80110",
+      "phone": "3037946742",
+      "lat": 39.6472,
+      "lng": -104.9877
+    },
+    {
+      "name": "Lush",
+      "street": "2490 West 2nd Ave. #a",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80223",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Magic City",
+      "street": "3819 Quentin St",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80239",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Maikoh Holistics - Boulder",
+      "street": "2750 Glenwood Dr Sta-8",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80304",
+      "phone": "7204766805",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "Maikoh Holistics - Broadway",
+      "street": "260 Broadway",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80203",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "MCCANBIZ - Green Pharm 2",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "81063",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "MCCANBIZ - Indico",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "81063",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "MCCANBIZ LLC",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "Colorado",
+      "zip": "81063",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "MCCANBIZ LLC - Alt Medicine Capital Hill",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "81063",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "MCCANBIZ LLC - Buku Loud",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "81063",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "MCCANBIZ LLC - EmJ's",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "81063",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "MCCANBIZ LLC - Karmaceuticals",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "81063",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "MCCANBIZ LLC - KIKA (Circle)",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "81063",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "McCanBiz LLC - Kika (Nevada) - 402-01130",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "81063",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "MCCANBIZ LLC - Kind Love Alameda",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "MCCANBIZ LLC - Kind Love Peoria",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "MCCANBIZ LLC - Nature's Med - Med",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "MCCANBIZ LLC - Reefer Madness 46th",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "81063",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "MCCANBIZ LLC - Snaxland",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "81063",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "MCCANBIZ LLC - The Center",
+      "street": "8552 Maverick Lane",
+      "city": "Ordway",
+      "state": "CO",
+      "zip": "81063",
+      "phone": "",
+      "lat": 38.0000,
+      "lng": -102.0000
+    },
+    {
+      "name": "Medicine Man Aurora - REC",
+      "street": "1901 Havana St.",
+      "city": "Aurora",
+      "state": "Colorado",
+      "zip": "80014",
+      "phone": "3039233825",
+      "lat": 39.7294,
+      "lng": -104.8319
+    },
+    {
+      "name": "Mighty Tree",
+      "street": "2268 South Delaware Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80223",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Mile high dispensary",
+      "street": "1350 South Sheridan Boulevard, Unit 1&2",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80232",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Mountain High Suckers",
+      "street": "400 South Lipan Street, Unit 11",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80223",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Natural Alternatives",
+      "street": "6712 S. College Ave Unit -5",
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "",
+      "lat": 40.5853,
+      "lng": -105.0844
+    },
+    {
+      "name": "Nature's Gift Shop",
+      "street": "148 E Assembly Drive",
+      "city": "Pueblo West",
+      "state": "Colorado",
+      "zip": "81007",
+      "phone": "7195478095",
+      "lat": 38.3500,
+      "lng": -104.7500
+    },
+    {
+      "name": "NuVue Pharma",
+      "street": "4740 Dillon Drive",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "zip": "81008",
+      "phone": "",
+      "lat": 38.2544,
+      "lng": -104.6091
+    },
+    {
+      "name": "Options",
+      "street": "9085 W 44th",
+      "city": "Wheatridge",
+      "state": "Colorado",
+      "zip": "80033",
+      "phone": "",
+      "lat": 39.8000,
+      "lng": -105.0000
+    },
+    {
+      "name": "Opuntia - Bway",
+      "street": "2262 s broadway",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80210",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Organix LLC REC",
+      "street": "1795 Unit A-2 Airport Rd",
+      "city": "Breckenridge",
+      "state": "Colorado",
+      "zip": "80424",
+      "phone": "",
+      "lat": 39.4817,
+      "lng": -106.0384
+    },
+    {
+      "name": "Pagosa Therapeutics - REC",
+      "street": "235 Bastille Drive",
+      "city": "Pagosa",
+      "state": "Colorado",
+      "zip": "81147",
+      "phone": "9707314204",
+      "lat": 37.2704,
+      "lng": -107.0281
+    },
+    {
+      "name": "Pax",
+      "street": "3215 East 42nd Avenue",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Peak MJ Sedgwick",
+      "street": "140 Railroad Ave",
+      "city": "Sedgwick",
+      "state": "Colorado",
+      "zip": "80749",
+      "phone": "",
+      "lat": 38.4000,
+      "lng": -102.0000
+    },
+    {
+      "name": "Police and Thieves",
+      "street": "6302 East Colfax Ave.",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80220",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Provisions Dispensary",
+      "street": "10232 I-25",
+      "city": "Walsenburg",
+      "state": "Colorado",
+      "zip": "81089",
+      "phone": "",
+      "lat": 37.9998,
+      "lng": -104.4075
+    },
+    {
+      "name": "Pure",
+      "street": "5702 E Colfax Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80220",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Pure Harvest Cannabis Dispensary Dumont",
+      "street": "1077 Co Rd 308",
+      "city": "Dumont",
+      "state": "Colorado",
+      "zip": "80436",
+      "phone": "",
+      "lat": 39.7500,
+      "lng": -105.0000
+    },
+    {
+      "name": "Pure Marijuana Dispensary",
+      "street": "4571 Ivy Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Rebel Edibles",
+      "street": "462 Laredo St",
+      "city": "Aurora",
+      "state": "Colorado",
+      "zip": "80011",
+      "phone": "",
+      "lat": 39.7294,
+      "lng": -104.8319
+    },
+    {
+      "name": "Rino Supply",
+      "street": "3100 Blake St",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80205",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Rino Supply Co",
+      "street": "3100 Blake Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Robhots",
+      "street": "37 silicon dr Unit A",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "zip": "81007",
+      "phone": "",
+      "lat": 38.2544,
+      "lng": -104.6091
+    },
+    {
+      "name": "Rocky Mountain Cannabis - Crested Butte",
+      "street": "322 Belleview Ave.",
+      "city": "Crested Butte",
+      "state": "Colorado",
+      "zip": "81224",
+      "phone": "",
+      "lat": 38.8691,
+      "lng": -106.9878
+    },
+    {
+      "name": "Rocky Mountain Cannabis Denver",
+      "street": "183 W. Alameda Ave.",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80223",
+      "phone": "3037366999",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Rocky Mountain Cannasol",
+      "street": "614 arizona avenue",
+      "city": "Trinidad",
+      "state": "Colorado",
+      "zip": "81082",
+      "phone": "",
+      "lat": 37.1697,
+      "lng": -104.5500
+    },
+    {
+      "name": "Rocky Mountain High",
+      "street": "6666 E 44th Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Rocky Road Remedies Aurora",
+      "street": "1712 S. Chambers RD",
+      "city": "Aurora",
+      "state": "Colorado",
+      "zip": "80017",
+      "phone": "",
+      "lat": 39.7294,
+      "lng": -104.8319
+    },
+    {
+      "name": "Rocky Road Remedies Thornton",
+      "street": "3901 E. 112TH AVE",
+      "city": "Thornton",
+      "state": "Colorado",
+      "zip": "80233",
+      "phone": "9705701633",
+      "lat": 39.8680,
+      "lng": -104.9870
+    },
+    {
+      "name": "Rocky Road Remedies Vail/Avon",
+      "street": "40928 Highway 6 #2B",
+      "city": "Avon",
+      "state": "Colorado",
+      "zip": "81620",
+      "phone": "",
+      "lat": 39.6400,
+      "lng": -106.4000
+    },
+    {
+      "name": "Roots Rx - Eagle/Vail",
+      "street": "40690 Highway 6 E2",
+      "city": "Avon",
+      "state": "Colorado",
+      "zip": "81620",
+      "phone": "9706885934",
+      "lat": 39.6400,
+      "lng": -106.4000
+    },
+    {
+      "name": "Sample Customer",
+      "street": "",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Seed and Smith",
+      "street": "5070 Oakland Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80239",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Simply Pure",
+      "street": "2000-2002 West 32nd Avenue",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80211",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Skyland Canteen",
+      "street": "1910 South Cherokee Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80223",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "SMJ - Elevations",
+      "street": "1700 N 55th St, Unit C",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80301",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "SMJ - Indico",
+      "street": "1700 N 55th St, Unit C",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80301",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "SMJ - Karmacueticals",
+      "street": "4 S Santa Fe Dr",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80223",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "SMJ - Kika (circle)",
+      "street": "555 N Circle Dr",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80909",
+      "phone": "",
+      "lat": 38.8339,
+      "lng": -104.8214
+    },
+    {
+      "name": "SMJ - KIKA (Nevada)",
+      "street": "3840 N Nevada Ave",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80907",
+      "phone": "",
+      "lat": 38.8339,
+      "lng": -104.8214
+    },
+    {
+      "name": "SMJ - Nature's Med (Kind Meds)",
+      "street": "260 North Santa Fe Drive",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80223",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "SMJ - Reefer Broadway",
+      "street": "SMJ",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "SMJ - Reefer M 46th",
+      "street": "4401 East 46th Avenue, Suite B",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "SMJ - Standing Akimbo",
+      "street": "3801 North Jason Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80211",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Smokey's 420 House",
+      "street": "5740 South College Avenue, Unit C",
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "zip": "80525",
+      "phone": "",
+      "lat": 40.5853,
+      "lng": -105.0844
+    },
+    {
+      "name": "Smokey's Adult Use Distribution Center",
+      "street": "2515 7th ave",
+      "city": "Garden City",
+      "state": "Colorado",
+      "zip": "80631",
+      "phone": "9705155839",
+      "lat": 39.8000,
+      "lng": -105.0000
+    },
+    {
+      "name": "Snaxland - Berkeley - Adams County",
+      "street": "6299 Federal Blvd.",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80221",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Snaxland - Boulder",
+      "street": "7464 Arapahoe Road Unit A9",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80303",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "Snaxland - High St.",
+      "street": "3944 N High St",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80205",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Social Cannabis - Chambers",
+      "street": "4405 Chambers Rd",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80239",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Social Cannabis - Federal",
+      "street": "5068 N Federal Blvd.",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80221",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Social Cannabis - Golden",
+      "street": "17120 West Colfax Ave. Unit 108",
+      "city": "Golden",
+      "state": "CO",
+      "zip": "80401",
+      "phone": "",
+      "lat": 39.7555,
+      "lng": -105.2211
+    },
+    {
+      "name": "Social Cannabis - Louisville",
+      "street": "1413 Hecla Way",
+      "city": "Louisville",
+      "state": "Colorado",
+      "zip": "80027",
+      "phone": "",
+      "lat": 39.9720,
+      "lng": -105.2480
+    },
+    {
+      "name": "Solace Meds",
+      "street": "301 Smokey Street Unit A",
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "zip": "80525",
+      "phone": "",
+      "lat": 40.5853,
+      "lng": -105.0844
+    },
+    {
+      "name": "Space Station",
+      "street": "206 South Main Street",
+      "city": "Longmont",
+      "state": "CO",
+      "zip": "80501",
+      "phone": "",
+      "lat": 40.1672,
+      "lng": -105.1019
+    },
+    {
+      "name": "SRH - KIKA (nevada)",
+      "street": "4500 Washington",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "SRH - Reefer 46th",
+      "street": "4500 Washington",
+      "city": "Denver",
+      "state": "Co",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "SRH - Reefer Broadway",
+      "street": "4500 Washington",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80216",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Star Buds - Lakeside",
+      "street": "5238 W 44th Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80212",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Star Buds Boulder",
+      "street": "1750 30th St. Unit 12",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80301",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "Sticky Fingerz",
+      "street": "3954 Williams Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80205",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Sticky Icky's Pueblo",
+      "street": "5341 W State Hwy 96",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "zip": "81005",
+      "phone": "",
+      "lat": 38.2544,
+      "lng": -104.6091
+    },
+    {
+      "name": "Strawberry Fields",
+      "street": "4116 Nature Center Rd",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "zip": "81003",
+      "phone": "",
+      "lat": 38.2544,
+      "lng": -104.6091
+    },
+    {
+      "name": "Sugarloaf",
+      "street": "411 North Commercial Street",
+      "city": "Trinidad",
+      "state": "CO",
+      "zip": "81082",
+      "phone": "",
+      "lat": 37.1697,
+      "lng": -104.5500
+    },
+    {
+      "name": "Sweet Mary Jane",
+      "street": "1700 N 55th St, Unit C",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80301",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "Sweet Mary Janes - Snaxland - Cherokee",
+      "street": "1155 S Cherokee St",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80223",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Terps Dispo",
+      "street": "38 North. silicon",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "zip": "81007",
+      "phone": "",
+      "lat": 38.2544,
+      "lng": -104.6091
+    },
+    {
+      "name": "The Canna Cabinet",
+      "street": "2630 West Pueblo Blvd.",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "zip": "81004",
+      "phone": "",
+      "lat": 38.2544,
+      "lng": -104.6091
+    },
+    {
+      "name": "The Cannabis Depot",
+      "street": "3390 28th Street",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80301",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "The Cannabis Depot - Denver",
+      "street": "155 Federal Blvd",
+      "city": "Denver",
+      "state": "",
+      "zip": "80219",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "The Center",
+      "street": "600 S Broadway",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80209",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "The Clinic",
+      "street": "2020 south Colorado Blvd",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80222",
+      "phone": "7206452848",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "The Clinic On Colfax",
+      "street": "4625 E. Colfax Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80220",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "The Colfax Pot Shop",
+      "street": "1500 E Colfax",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80218",
+      "phone": "7203286256",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "The Dab",
+      "street": "2748 W. Alameda Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80219",
+      "phone": "3039365980",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "The Dispo - REC",
+      "street": "893 East Enterprise Drive",
+      "city": "Pueblo West",
+      "state": "Colorado",
+      "zip": "81007",
+      "phone": "7199487879",
+      "lat": 38.3500,
+      "lng": -104.7500
+    },
+    {
+      "name": "The Doc's Apothecary",
+      "street": "2100 E. 112th Ave",
+      "city": "Northglenn",
+      "state": "Colorado",
+      "zip": "80233",
+      "phone": "3039745966",
+      "lat": 39.8967,
+      "lng": -104.9813
+    },
+    {
+      "name": "The Farm",
+      "street": "2801 Iris Ave",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80301",
+      "phone": "",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "The Grand Junction Greenery",
+      "street": "762 Horizon Drive",
+      "city": "Grand Junction",
+      "state": "Colorado",
+      "zip": "81506",
+      "phone": "",
+      "lat": 39.0639,
+      "lng": -108.5507
+    },
+    {
+      "name": "The Happy Camper Cannabis Co. (402R-00245)",
+      "street": "80 Rosalie Rd.",
+      "city": "Bailey",
+      "state": "Colorado",
+      "zip": "80421",
+      "phone": "3038160420",
+      "lat": 39.7000,
+      "lng": -105.2000
+    },
+    {
+      "name": "The Joint by Cannabis",
+      "street": "4745 W 38th Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80212",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "The Kind Room",
+      "street": "1881 S. Broadway",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80210",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "The Pig 'N' Whistle - Rec",
+      "street": "4801 W Colfax Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80204",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "The Trust Cannabis Company",
+      "street": "1537 Pearl Street Unit-B",
+      "city": "Boulder",
+      "state": "Colorado",
+      "zip": "80302",
+      "phone": "5072369932",
+      "lat": 40.014986,
+      "lng": -105.270545
+    },
+    {
+      "name": "Tower Road Social LLC",
+      "street": "4650 Tower Rd Unit 108",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80249",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Trinidad Gardens",
+      "street": "422 N Commercial Street",
+      "city": "Trinidad",
+      "state": "Colorado",
+      "zip": "81082",
+      "phone": "",
+      "lat": 37.1697,
+      "lng": -104.5500
+    },
+    {
+      "name": "Tweedleaf Lawrence Rec",
+      "street": "440 Lawrence Street",
+      "city": "Central City",
+      "state": "Colorado",
+      "zip": "80427",
+      "phone": "",
+      "lat": 39.7393,
+      "lng": -105.1862
+    },
+    {
+      "name": "Verde Natural",
+      "street": "5101 E Colfax Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80220",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Vert's",
+      "street": "1240 W Elizabeth St Unit C",
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "zip": "80521",
+      "phone": "9702862318",
+      "lat": 40.5853,
+      "lng": -105.0844
+    },
+    {
+      "name": "Whisper Consulting Group LLC",
+      "street": "6629 S College Ave",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "80525",
+      "phone": "3085207615",
+      "lat": 40.5853,
+      "lng": -105.0844
+    },
+    {
+      "name": "Wm Concenterates - Zips Denver",
+      "street": "5124 Havana St",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80239",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Xclusive - Smith street",
+      "street": "7200 smith st",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80207",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "name": "Xclusive Cannabis - Aurora",
+      "street": "15200 E 6th Ave",
+      "city": "Aurora",
+      "state": "Colorado",
+      "zip": "80011",
+      "phone": "",
+      "lat": 39.7294,
+      "lng": -104.8319
+    },
+    {
+      "name": "Zengolds LLC Longmont",
+      "street": "4497 Ute Hwy",
+      "city": "Longmont",
+      "state": "Colorado",
+      "zip": "80503",
+      "phone": "",
+      "lat": 40.1672,
+      "lng": -105.1019
+    },
+    {
+      "name": "Kindcare of Colorado",
+      "street": "6617 S College Ave",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "80525",
+      "phone": "",
+      "lat": 40.5853,
+      "lng": -105.0844
+    },
+    {
+      "name": "Snaxland - Yale",
+      "street": "6200 E Yale Ave",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80222",
+      "phone": "",
+      "lat": 39.7392,
+      "lng": -104.9903
+    }
+  ]
+  
