@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'leaflet/dist/leaflet.css';
+import './assets/styles/main.css';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
