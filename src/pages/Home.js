@@ -1,5 +1,6 @@
 // src/pages/Home.js
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Home() {
   return (
@@ -10,7 +11,7 @@ function Home() {
           <div className="hero-content">
             <h1>Welcome to Soiku Bano</h1>
             <p>Experience the best Hash offerings in Colorado.</p>
-            <a href="/dispensaries" className="hero-cta">Find our Products!</a>
+            <Link to="/dispensaries" className="hero-cta">Find our Products!</Link>
           </div>
         </div>
       </section>
@@ -20,7 +21,7 @@ function Home() {
         <div className="section-inner">
           <h2>Dispensary Locator</h2>
           <p>Find the nearest dispensary with our interactive map and filter by products or flavors.</p>
-          <a href="/dispensaries" className="btn">Find a Dispensary</a>
+          <Link to="/dispensaries" className="btn">Find a Dispensary</Link>
         </div>
       </section>
 
@@ -29,7 +30,7 @@ function Home() {
         <div className="section-inner">
           <h2>Product Catalog</h2>
           <p>Browse our extensive selection of premium cannabis products, each with detailed info and reviews.</p>
-          <a href="/products" className="btn">View Products</a>
+          <Link to="/products" className="btn">View Products</Link>
         </div>
       </section>
 
@@ -41,7 +42,7 @@ function Home() {
             Discover the unique history and design influences behind Soiku Bano,
             inspired by vibrant Cuban culture and modern cannabis innovation.
           </p>
-          <a href="/about" className="btn">Learn More</a>
+          <Link to="/about" className="btn">Learn More</Link>
         </div>
       </section>
     </>
