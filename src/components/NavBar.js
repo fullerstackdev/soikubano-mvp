@@ -4,15 +4,18 @@ import { Link } from 'react-router-dom';
 
 function NavBar() {
   return (
-    <nav style={{ background: '#eee', padding: '10px' }}>
-      <Link to="/" style={{ marginRight: '10px' }}>Home</Link>
-      <Link to="/dispensaries" style={{ marginRight: '10px' }}>Dispensaries</Link>
-      <Link to="/products" style={{ marginRight: '10px' }}>Products</Link>
-      <Link to="/about" style={{ marginRight: '10px' }}>About</Link>
-      <Link to="/contact" style={{ marginRight: '10px' }}>Contact</Link>
-      <Link to="/merch" style={{ marginRight: '10px' }}>Merch</Link>
-      <Link to="/blog">Blog</Link>
-    </nav>
+    <div className="navbar">
+      <div className="nav-left">Soiku Bano</div>
+      <div className="nav-links">
+        <Link to="/">Home</Link>
+        <Link to="/dispensaries">Dispensaries</Link>
+        <Link to="/products">Products</Link>
+        <Link to="/about">About</Link>
+        <Link to="/contact">Contact</Link>
+        <Link to="/merch">Merch</Link>
+        <Link to="/blog">Blog</Link>
+      </div>
+    </div>
   );
 }
 

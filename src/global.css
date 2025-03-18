@@ -1,0 +1,357 @@
+/**************************************************************
+ * Soiku Bano - Polished Multi-Section Website Styling
+ * Brand colors: #52439b (purple), #32c641 (green)
+ **************************************************************/
+
+/* 1) VARIABLES & RESET */
+:root {
+    --color-primary: #52439b;     /* Purple */
+    --color-secondary: #32c641;   /* Green */
+    --color-bg: #0f0f0f;          /* Dark base color (or a gradient if you like) */
+    --color-bg-section: #1b1b1b;  /* Slightly lighter dark */
+    --color-heading: #ffffff;     
+    --color-text: #e0e0e0;
+  
+    --font-heading: 'Rock Salt', cursive;
+    --font-body: 'Montserrat', sans-serif;
+  
+
+  
+    --spacing-xs: 0.25rem;
+    --spacing-sm: 0.5rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 2rem;
+    --spacing-xl: 4rem;
+  
+    --radius-sm: 4px;
+    --shadow-md: 0 4px 12px rgba(0,0,0,0.4);
+  }
+  
+  /* Basic reset & box-sizing */
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    font-family: var(--font-body);
+    line-height: 1.5;
+  }
+  
+  /* 2) HEADINGS & LINKS */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    color: var(--color-heading);
+    margin-top: 0;
+    margin-bottom: var(--spacing-sm);
+  }
+  a {
+    color: var(--color-primary);
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  a:hover {
+    color: var(--color-secondary);
+  }
+  
+  /* 3) NAVBAR - Sticky, High Contrast */
+  .navbar {
+    position: sticky; 
+    top: 0; 
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #121212; /* or #000 for deeper contrast */
+    padding: var(--spacing-sm) var(--spacing-md);
+    box-shadow: var(--shadow-md);
+  }
+  .navbar .nav-left {
+    font-family: var(--font-heading);
+    font-size: 1.8rem;
+    color: var(--color-primary);
+  }
+  .navbar .nav-links a {
+    margin-left: var(--spacing-md);
+    font-weight: 600;
+    color: var(--color-heading);
+  }
+  .navbar .nav-links a:hover {
+    color: var(--color-secondary);
+  }
+  
+  /* 4) HERO SECTION */
+  .hero {
+    position: relative;
+    width: 100%;
+    min-height: 80vh;
+    background-image: var(--hero-bg-img);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .hero-overlay {
+    background-color: rgba(0, 0, 0, 0.6); 
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--spacing-xl) var(--spacing-md);
+    text-align: center;
+  }
+  .hero-content {
+    max-width: 800px;
+  }
+  .hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: var(--spacing-md);
+  }
+  .hero-content p {
+    font-size: 1.25rem;
+    margin-bottom: var(--spacing-md);
+    color: #ccc;
+  }
+  .hero-cta {
+    background-color: var(--color-primary);
+    color: #fff;
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    font-family: var(--font-body);
+    font-weight: 600;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  .hero-cta:hover {
+    background-color: var(--color-secondary);
+    box-shadow: var(--shadow-md);
+  }
+  
+  /* 5) MULTI-SECTION LAYOUT */
+  .section {
+    padding: var(--spacing-xl) var(--spacing-md);
+    background-color: var(--color-bg-section);
+    background-image: var(--section-bg-img);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: var(--spacing-md);
+    position: relative;
+  }
+  .section .section-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: rgba(0,0,0,0.5); /* overlay to ensure text is readable */
+    padding: var(--spacing-lg);
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-md);
+  }
+  .section h2 {
+    font-size: 2rem;
+    margin-bottom: var(--spacing-md);
+    text-align: center;
+  }
+  .section p {
+    margin-bottom: var(--spacing-md);
+  }
+  
+  /* 6) BUTTONS (GLOBAL) */
+  .btn {
+    display: inline-block;
+    background-color: var(--color-primary);
+    color: #fff;
+    padding: var(--spacing-sm) var(--spacing-md);
+    border: none;
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    cursor: pointer;
+    font-family: var(--font-body);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  .btn:hover {
+    background-color: var(--color-secondary);
+    box-shadow: var(--shadow-md);
+  }
+  
+  /* 7) UTILITY CLASSES */
+  .text-center {
+    text-align: center;
+  }
+  .mt-md { margin-top: var(--spacing-md); }
+  .mb-md { margin-bottom: var(--spacing-md); }
+  .mt-lg { margin-top: var(--spacing-lg); }
+  .mb-lg { margin-bottom: var(--spacing-lg); }
+  
+  .products-page {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .products-title {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Controls row */
+  .product-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  
+  .product-search,
+  .product-filter,
+  .product-sort {
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Loading text, no products found text */
+  .products-loading,
+  .products-none {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 2rem;
+  }
+  
+  /* Product grid */
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  .product-card {
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 1rem;
+    background-color: var(--color-bg-content);
+    text-align: center;
+    box-shadow: var(--shadow-md);
+    transition: transform 0.2s ease;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-4px);
+  }
+  
+  .product-image {
+    width: 100%;
+    border-radius: 5px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 0.5rem;
+  }
+  
+  .product-name {
+    color: var(--color-primary);
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .product-desc {
+    font-size: 0.9rem;
+    color: #ccc;
+  }
+  
+  .product-quantity {
+    font-weight: bold;
+    color: var(--color-secondary);
+    margin-bottom: 0.5rem;
+  }
+  
+  .product-detail-btn {
+    margin-top: 0.5rem;
+    font-weight: bold;
+  }
+  .product-detail-page {
+    padding: 2rem;
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: var(--color-bg-content);
+    border-radius: 8px;
+    box-shadow: var(--shadow-md);
+  }
+  
+  .product-detail-loading {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .product-detail-title {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+  }
+  
+  .product-detail-image {
+    width: 100%;
+    max-height: 300px;  /* standardize the size */
+    object-fit: cover;  /* so it's neatly cropped */
+    border-radius: 5px;
+    margin-bottom: 1rem;
+  }
+  
+  .product-detail-subtitle {
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.4rem;
+  }
+  
+  .product-available-list {
+    list-style: inside;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+  
+  .product-not-available {
+    margin-bottom: 1rem;
+    color: #ccc;
+  }
+  
+  /* Reviews */
+  .product-no-reviews {
+    color: #ccc;
+    margin-bottom: 1rem;
+  }
+  .product-review-card {
+    border: 1px solid #333;
+    border-radius: 5px;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    background-color: #2a2a2a; 
+  }
+  
+  /* Review Form */
+  .product-review-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+  .product-review-rating,
+  .product-review-text {
+    margin-left: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: 1px solid #999;
+    width: 100%;
+  }
+  .product-review-text {
+    height: 80px;
+  }
+  .product-review-submit {
+    align-self: flex-start;
+    margin-top: 0.5rem;
+  }
+  

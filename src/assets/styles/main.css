@@ -1,18 +1,187 @@
-/* src/assets/styles/main.css */
-body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    background-color: #f7f7f7;
-    color: #333;
+/*************************************************************
+ * Soiku Bano Dark Theme - main.css
+ * Brand colors: #52439b (purple) & #32c641 (green)
+ * Headings font: Rock Salt (loaded in index.html)
+ *************************************************************/
+
+/* 1) VARIABLES */
+:root {
+    --color-primary: #52439b;
+    --color-secondary: #32c641;
+    --color-bg: #0f0f0f;
+    --color-bg-content: #1b1b1b;
+    --color-text: #e6e6e6;
+    --color-heading: #ffffff;
+  
+    /* If you have a Cuban-inspired pattern image, replace this placeholder */
+    --hero-bg-image: url('https://via.placeholder.com/1600x900?text=Cuban+Pattern');
+  
+    --spacing-sm: 0.5rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 2rem;
+  
+    --radius-sm: 4px;
+    --shadow-md: 0 2px 6px rgba(0,0,0,0.4);
   }
   
-  a {
-    text-decoration: none;
-    color: inherit;
-  }
-  
-  * {
+  /* 2) RESET / BASE */
+  *,
+  *::before,
+  *::after {
     box-sizing: border-box;
   }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    font-family: 'Arial', sans-serif; /* fallback for body */
+    line-height: 1.5;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Rock Salt', cursive; /* “Cuban flair” headings */
+    margin: 0;
+    margin-bottom: var(--spacing-sm);
+    color: var(--color-heading);
+  }
+  
+  /* 3) NAVBAR (sticky + scroll effect) */
+  .navbar {
+    position: sticky;  /* stays at top */
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--spacing-sm) var(--spacing-md);
+    background-color: var(--color-bg-content);
+    box-shadow: var(--shadow-md);
+    z-index: 999; /* ensures it stays above content */
+    transition: background-color 0.3s ease;
+  }
+  
+  .navbar.scrolled {
+    background-color: #000000; /* darker when scrolled */
+  }
+  
+  .nav-logo {
+    color: var(--color-primary);
+    font-family: 'Rock Salt', cursive;
+    font-size: 1.5rem;
+  }
+  
+  .nav-links a {
+    color: var(--color-primary);
+    text-decoration: none;
+    margin-right: var(--spacing-md);
+    font-weight: 600;
+    transition: color 0.2s ease;
+  }
+  
+  .nav-links a:hover {
+    color: var(--color-secondary);
+  }
+  
+  /* 4) HERO SECTION */
+  .hero {
+    position: relative;
+    width: 100%;
+    min-height: 70vh;
+    background: var(--color-bg-content);
+    background-image: var(--hero-bg-image);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .hero-overlay {
+    background-color: rgba(0, 0, 0, 0.5); 
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hero-content {
+    max-width: 800px;
+    text-align: center;
+    padding: var(--spacing-lg);
+  }
+  
+  .hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: var(--spacing-md);
+  }
+  
+  .hero-content p {
+    font-size: 1.2rem;
+    color: #ccc;
+    margin-bottom: var(--spacing-md);
+  }
+  
+  .hero-cta {
+    background-color: var(--color-primary);
+    color: #fff;
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .hero-cta:hover {
+    background-color: var(--color-secondary);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  }
+  
+  /* 5) SECTIONS */
+  .section {
+    padding: var(--spacing-lg) var(--spacing-md);
+    background-color: var(--color-bg-content);
+    margin-bottom: var(--spacing-md);
+  }
+  
+  /* 6) FEATURE GRID */
+  .feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: var(--spacing-md);
+  }
+  
+  .feature {
+    background-color: #242424; 
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-md);
+    padding: var(--spacing-md);
+    border: 1px solid #333;
+  }
+  
+  /* 7) BUTTON (GLOBAL) */
+  .btn {
+    display: inline-block;
+    background-color: var(--color-primary);
+    color: #fff;
+    padding: var(--spacing-sm) var(--spacing-md);
+    border: none;
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    font-family: 'Arial', sans-serif;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: var(--color-secondary);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  }
+  
+  /* 8) UTILITY */
+  .text-center {
+    text-align: center;
+  }
+  .mt-md { margin-top: var(--spacing-md); }
+  .mb-md { margin-bottom: var(--spacing-md); }
   
