@@ -34,18 +34,18 @@
         { "id": 33, "image": "/assets/images/products/black-label.jpg", "productType": "Cold Cure Rosin", "category": "Black Label", "size": "1g", "strainFlavor": "Pancakes", "quantity": 4 },
         { "id": 34, "image": "/assets/images/products/black-label.jpg", "productType": "Cold Cure Rosin", "category": "Black Label", "size": "2g", "strainFlavor": "Zoap", "quantity": 1 },
         { "id": 35, "image": "/assets/images/products/black-label.jpg", "productType": "Cold Cure Rosin", "category": "Black Label", "size": "2g", "strainFlavor": "Chimera", "quantity": 1 },
-        { "id": 36, "image": "/assets/images/products/black-label.jpg", "productType": "Cold Cure Rosin", "category": "Black Label", "size": "2g", "strainFlavor": "McGriddle (deleted)", "quantity": 1 },
+        { "id": 36, "image": "/assets/images/products/black-label.jpg", "productType": "Cold Cure Rosin", "category": "Black Label", "size": "2g", "strainFlavor": "McGriddle", "quantity": 1 },
         { "id": 37, "image": "/assets/images/products/black-label.jpg", "productType": "Cold Cure Rosin", "category": "Black Label", "size": "2g", "strainFlavor": "Gelato Cake", "quantity": 1 },
         { "id": 38, "image": "/assets/images/products/luna.jpg", "productType": "Cold Cure Rosin", "category": "Black Label", "size": "3.5g LUNA", "strainFlavor": "Maple Dunks", "quantity": 1 },
-        { "id": 39, "image": "/assets/images/products/luna.jpg", "productType": "Cold Cure Rosin", "category": "Black Label", "size": "3.5g LUNA", "strainFlavor": "McGriddle (deleted, 1)-McGriddle (deleted)", "quantity": 1 },
+        { "id": 39, "image": "/assets/images/products/luna.jpg", "productType": "Cold Cure Rosin", "category": "Black Label", "size": "3.5g LUNA", "strainFlavor": "McGriddle", "quantity": 1 },
         { "id": 40, "image": "/assets/images/products/black-label.jpg", "productType": "Cold Cure Rosin", "category": "Purple Label", "size": "4g bucket", "strainFlavor": "Chocolate Guava Bomber", "quantity": 1 },
         { "id": 41, "image": "/assets/images/products/black-label.jpg", "productType": "Cold Cure Rosin", "category": "Purple Label", "size": "4g bucket", "strainFlavor": "Maple Frosted Pancakes", "quantity": 1 },
         { "id": 42, "image": "/assets/images/products/black-label.jpg", "productType": "Cold Cure Rosin", "category": "Purple Label", "size": "4g bucket", "strainFlavor": "Go-Gurt Cooler", "quantity": 1 },
-        { "id": 43, "image": "/assets/images/products/joint.jpg", "productType": "Infused Joint – Tango", "category": "Flower", "size": "1g", "strainFlavor": "Garlic Diesel Flower / Candi Fumez Rosin (deleted)", "quantity": 2 },
+        { "id": 43, "image": "/assets/images/products/joint.jpg", "productType": "Infused Joint – Tango", "category": "Flower", "size": "1g", "strainFlavor": "Garlic Diesel Flower / Candi Fumez Rosin", "quantity": 2 },
         { "id": 44, "image": "/assets/images/products/joint.jpg", "productType": "Infused Joint – Tango", "category": "Flower", "size": "1g", "strainFlavor": "Mandarin Z flower / Mandarin Z rosin – Infused Preroll", "quantity": 6 },
         { "id": 45, "image": "/assets/images/products/joint.jpg", "productType": "Infused Joint – Tango", "category": "Flower", "size": "1g", "strainFlavor": "Donny Burger Flower / Swampwater Fumez Rosin", "quantity": 5 },
         { "id": 46, "image": "/assets/images/products/joint.jpg", "productType": "Infused Joint – Tango", "category": "Flower", "size": "1g", "strainFlavor": "Garlic Diesel Flower / Summer Sunrise Rosin", "quantity": 2 },
         { "id": 47, "image": "/assets/images/products/soi-sauce.jpg", "productType": "Soi Sauce", "category": "Black Label", "size": "1g", "strainFlavor": "Swampwater Fumez Sauce", "quantity": 3 },
-        { "id": 48, "image": "/assets/images/products/soi-sauce.jpg", "productType": "Soi Sauce", "category": "Black Label", "size": "1g", "strainFlavor": "Donny Burger (deleted, 5)-Donny Burger (deleted)", "quantity": 1 }      
+        { "id": 48, "image": "/assets/images/products/soi-sauce.jpg", "productType": "Soi Sauce", "category": "Black Label", "size": "1g", "strainFlavor": "Donny Burger", "quantity": 1 }      
   ]
   

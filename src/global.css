@@ -355,3 +355,78 @@
     margin-top: 0.5rem;
   }
   
+  /* Dispensaries Page Layout */
+.dispensaries-page {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .dispensaries-hero {
+    text-align: center;
+    padding: 2rem;
+    background-color: var(--color-bg-content); /* or your brand color */
+    border-radius: 8px;
+    box-shadow: var(--shadow-md);
+  }
+  
+  .dispensaries-title {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .dispensaries-subtitle {
+    font-size: 1.2rem;
+    color: #ccc;
+  }
+  
+  .dispensaries-map {
+    /* If you want, you can give this a background or border, etc. */
+    height: auto;
+  }
+  
+  /* The MapComponent itself has height set to 400px, etc., so no inline style needed.
+     Just ensure your Map.js references a class instead of style for the container. */
+  
+  /* Dispensaries List / Grid */
+  .dispensaries-list-title {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .dispensaries-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  .dispensary-card {
+    background-color: var(--color-bg-content);
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: var(--shadow-md);
+    border: 1px solid #333;
+  }
+  
+  .dispensary-name {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+    color: var(--color-primary);
+  }
+  
+  .dispensary-address,
+  .dispensary-phone {
+    font-size: 0.9rem;
+    color: #ccc;
+    margin-bottom: 0.3rem;
+  }
+  
+  .dispensaries-none {
+    text-align: center;
+    font-size: 1.1rem;
+    margin: 2rem 0;
+    color: #ccc;
+  }
+  

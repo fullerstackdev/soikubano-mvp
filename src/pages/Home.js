@@ -10,7 +10,7 @@ function Home() {
           <div className="hero-content">
             <h1>Welcome to Soiku Bano</h1>
             <p>Experience the best Hash offerings in Colorado.</p>
-            <a href="/dispensaries" className="hero-cta">Explore Our Dispensaries</a>
+            <a href="/dispensaries" className="hero-cta">Find our Products!</a>
           </div>
         </div>
       </section>
